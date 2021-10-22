@@ -1,0 +1,78 @@
+/********The info in the caption*********/
+.carousel-caption{
+    background-color: rgb(235, 188, 224);
+    width: 100%;
+    left:0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+/***********************************/
+
+/********Team section*********/
+.team .col-lg-4 {
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+/********Divide the section*********/
+.section-divider{ 
+    margin: 3rem 0;
+}
+
+
+/****min width for featured heading****/
+@media (min-width: 1200px) {
+  .feature-heading {
+    margin-top: 10rem;
+  }
+}
+/******************************/
+
+/************max width for carousel images and team class**************/
+@media (max-width: 540px) {
+    .carouselImg {
+        display: none;
+    }
+    
+    .team {
+        margin-top: 2rem;
+    }
+}
+/************************************************************************/
+
+/********Footer section*********/
+.footer-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #222424;
+}
+/******************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
